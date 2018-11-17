@@ -28,6 +28,10 @@ body {
     font-weight: bolder;
 }
 
+.my-burgers {
+    overflow: auto;
+}
+
 #burger-input {
     text-align: center;
     border-radius: 8px;
